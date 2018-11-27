@@ -4,18 +4,12 @@
 .reveal section img {
 border: 0px;
 box-shadow: 0 0 0 0;
-width: 60%;
-}
-
-/* Smaller font for list items in table key */
-.list-key {
-font-size: 60% !important;
 }
 
 /* Large font */
  .reveal {
-   font-size: 38px; 
-} 
+   font-size: 38px;
+}
 
 /* Smaller table font */
 .reveal table {
